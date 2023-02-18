@@ -31,3 +31,6 @@ https://lucid.app/lucidchart/b011bf08-4db3-4600-b86e-2ce0169368ed/edit?viewport_
 
 ### Well-Architected tool
 
+Checked out Well Architected tool. Answered all questions on fictional situation to see the outcome. It looks pretty bad lol
+
+![Well-Architected Tool](assets/Well%20Architected%20tool.png)
