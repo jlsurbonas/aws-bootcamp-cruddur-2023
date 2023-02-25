@@ -6,7 +6,7 @@ Completed all required homework. Below I explain about some issues I faced.
 
 ### Docker-compose file
 
-Up to this point all tasks went smoothly and worked just fine. I have created a Docker-compose file. But when tried to docker compose up, it didn't work as expected (I can't remember what was the error because I wasn't documenting my actions due to lack of time. But I think I'll try to do from now on). I start from beginning, went through all the steps again. And when came round to creating docker-compose file, I noticed that first time I saved the file in backend-flash folder. I moved it to frontend-flash folder using CLI commands and deleted from backend-flash folder. And that solved the problem. Docker compose up worked.
+Up to this point all tasks went smoothly and worked just fine. I have created a Docker-compose file. But when tried to docker compose up, it didn't work as expected (I can't remember what was the error because I wasn't documenting my actions due to lack of time. But I think I'll try to do from now on). I start from beginning, went through all the steps again. And when came round to creating docker-compose file, I noticed that first time I saved the file in backend-flash folder. I moved it to frontend-react folder using CLI commands and deleted from backend-flash folder. And that solved the problem. Docker compose up worked.
 
 ### DynamoDB
 
