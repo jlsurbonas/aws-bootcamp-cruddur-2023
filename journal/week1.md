@@ -17,7 +17,16 @@ I also experienced a problem while testing DynamoDB. It wasn't finding DynamoDB.
 ### Run the dockerfile CMD as an external script
 
 I don't have any experience with this so first I had to go on internet and find out how to do that. I found some information. Not sure how it will work, but here it goes. Steps I took:
-1. Create shell script. No problems.
-2. Created Dockerfile. It is saved in Homework challenges folder. 
-3. Build Docker image. Here I faced my first problem. It showed an error "unable to prepare context: unable to evaluate symlinks in Dockerfile path: lstat /workspace/aws-bootcamp-cruddur-2023/Dockerfile: no such file or directory". I wasn't sure what it's all about but guessed I might be in wrong directory. After few failed attempts I finally managed to get to right directory and build Docker image.
-4. Run container. 
+1. Create shell script.
+
+``
+#!/bin/sh
+echo "Hello, World!"
+``
+
+![Created shell script](https://user-images.githubusercontent.com/124433076/221354088-877c77b9-a5c8-46d1-a1fb-4b5f1b1df825.png)
+
+2. Created Dockerfile in Homework-Challenges/Week1. No issues.
+4. Build Docker image. Here I faced my first problem. It showed an error "unable to prepare context: unable to evaluate symlinks in Dockerfile path: lstat /workspace/aws-bootcamp-cruddur-2023/Dockerfile: no such file or directory". I wasn't sure what it's all about but guessed I might be in wrong directory. After few failed attempts I finally managed to get to right directory and build Docker image.
+5. Run container. 
+I believe I have successfully completed the task.
