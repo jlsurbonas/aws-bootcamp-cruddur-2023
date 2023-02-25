@@ -16,7 +16,7 @@ I also experienced a problem while testing DynamoDB. It wasn't finding DynamoDB.
 
 ### Run the dockerfile CMD as an external script
 
-NOTE. I am also learning Markdown syntax to quote code, text and insert images.
+NOTE. I am also learning how to take screenshots, document here, Markdown syntax to quote code, text and insert images.
 
 I don't have any experience with this so first I had to go on internet and find out how to do that. I found some information. Not sure how it will work, but here it goes. Steps I took:
 #### Create shell script.
