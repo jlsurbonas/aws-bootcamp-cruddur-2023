@@ -1,0 +1,6 @@
+FROM python:3.10-slim-buster
+
+COPY start.sh /workspace/aws-bootcamp-cruddur-2023/homework-challenges/Week1/
+RUN chmod +x /workspace/aws-bootcamp-cruddur-2023/homework-challenges/Week1/start.sh
+
+ENTRYPOINT ["/workspace/aws-bootcamp-cruddur-2023/homework-challenges/Week1/start.sh"]
