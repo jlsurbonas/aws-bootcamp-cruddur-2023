@@ -86,4 +86,8 @@ To check for any Docker images I ran command
 
 ![Docker images](https://user-images.githubusercontent.com/124433076/221358116-75fca7fa-3d78-4df8-9bfe-baa8cbeb141d.png)
 
+Once I knew I have an image and it's details I was able to tag an image with command:
+
+`docker tag <image_name> <dockerhub_username>/<repository_name>:<tag>`
+
 
