@@ -69,7 +69,7 @@ I decided to make changes to the shell script and go through the process again. 
 
 ![Updates shell script](https://user-images.githubusercontent.com/124433076/221356329-2dfe9c93-23e0-4584-91dc-e42d812cffa8.png)
 
-### Push and tag a image to DockerHub
+### Push and tag an image to DockerHub
 
 #### Opened free-tier DockerHub account and logged in to Docker CLI
 
@@ -99,3 +99,5 @@ Next I pushed tagged image to DockerHub using command:
 Here is successfully pushed image
 
 ![Push image to dockerHub](https://user-images.githubusercontent.com/124433076/221358670-00a0d81a-3db6-445b-a1a6-b776454c0fbf.png)
+
+## Mission accomplished
