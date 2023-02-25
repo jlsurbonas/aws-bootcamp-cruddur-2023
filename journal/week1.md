@@ -68,3 +68,10 @@ I believe I have successfully completed the task.
 I decided to make changes to the shell script and go through the process again. I was surprised by how fast and easy it was to do that. Here is updated text:
 
 ![Updates shell script](https://user-images.githubusercontent.com/124433076/221356329-2dfe9c93-23e0-4584-91dc-e42d812cffa8.png)
+
+### Push and tag a image to DockerHub
+
+#### Opened free-tier DockerHub account and logged in to Docker CLI
+
+Using command 
+`docker login`
