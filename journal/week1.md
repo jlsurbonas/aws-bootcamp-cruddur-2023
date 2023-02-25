@@ -74,4 +74,4 @@ I decided to make changes to the shell script and go through the process again. 
 #### Opened free-tier DockerHub account and logged in to Docker CLI
 
 Using command 
-``docker login``
+```docker login```
