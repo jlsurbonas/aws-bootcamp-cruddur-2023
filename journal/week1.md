@@ -60,3 +60,7 @@ I finally managed to get to the right directory and build Docker image:
 #### Run container. 
 
 I believe I have successfully completed the task.
+
+![Run container](https://user-images.githubusercontent.com/124433076/221355962-0d036ccf-bb00-4de2-a2b1-6b77ebee1a64.png)
+
+
