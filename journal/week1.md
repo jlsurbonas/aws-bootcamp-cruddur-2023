@@ -16,7 +16,7 @@ I also experienced a problem while testing DynamoDB. It wasn't finding DynamoDB.
 
 ### Run the dockerfile CMD as an external script
 
-NOTE. I am also learning Markdown syntax to quote code and insert images.
+NOTE. I am also learning Markdown syntax to quote code, text and insert images.
 
 I don't have any experience with this so first I had to go on internet and find out how to do that. I found some information. Not sure how it will work, but here it goes. Steps I took:
 #### Create shell script.
@@ -63,4 +63,8 @@ I believe I have successfully completed the task.
 
 ![Run container](https://user-images.githubusercontent.com/124433076/221355962-0d036ccf-bb00-4de2-a2b1-6b77ebee1a64.png)
 
+#### Test
 
+I decided to make changes to the shell script and go through the process again. I was surprised by how fast and easy it was to do that. Here is updated text:
+
+![Updates shell script](https://user-images.githubusercontent.com/124433076/221356329-2dfe9c93-23e0-4584-91dc-e42d812cffa8.png)
