@@ -49,7 +49,13 @@ Here I faced a problem. It showed an error
 
 >"unable to prepare context: unable to evaluate symlinks in Dockerfile path: lstat /workspace/aws-bootcamp-cruddur-2023/Dockerfile: no such file or directory". 
 
-I wasn't sure what it's all about but guessed I might be in wrong directory. After few failed attempts I finally managed to get to the right directory and build Docker image.
+I wasn't sure what it's all about but guessed I might be in wrong directory. After few failed attempts:
+
+![Failing to build docker image](https://user-images.githubusercontent.com/124433076/221355740-12b4d98a-0878-4588-afad-e93db00e19ca.png)
+
+I finally managed to get to the right directory and build Docker image:
+
+![Docker image built](https://user-images.githubusercontent.com/124433076/221355819-6818346f-4b5e-4814-b60a-b5433bc5ea29.png)
 
 #### Run container. 
 
