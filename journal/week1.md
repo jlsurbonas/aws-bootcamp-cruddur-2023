@@ -74,4 +74,16 @@ I decided to make changes to the shell script and go through the process again. 
 #### Opened free-tier DockerHub account and logged in to Docker CLI
 
 Using command 
-```docker login```
+`docker login`
+
+#### Tag image
+
+Next I wanted to tag image. But I had no idea how to do that. First I found that I need to know if I already have an image or I need to create one.
+
+To check for any Docker images I ran command
+
+`docker images` 
+
+![Docker images](https://user-images.githubusercontent.com/124433076/221358116-75fca7fa-3d78-4df8-9bfe-baa8cbeb141d.png)
+
+
