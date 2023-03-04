@@ -6,6 +6,6 @@ Completed all required homework without any problems. Most of it done while atte
 
 ### Something else
 
-While doing homework I have noticed that my 
+While doing homework I have noticed that my frontend-react wouldn't start after docker compose up. 
 
 ## Homework Challenges 
