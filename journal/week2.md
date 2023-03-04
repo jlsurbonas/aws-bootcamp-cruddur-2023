@@ -21,3 +21,5 @@ That gave me an idea that it must be something to do with starting GitPod. But I
 ![Mistake](https://user-images.githubusercontent.com/124433076/222894052-1c6f7fbd-aced-4c37-85dd-dd1c1dab94a7.png)
 
 | was missing.
+
+It's all working now. 
