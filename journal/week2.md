@@ -4,7 +4,9 @@
 
 Completed all required homework without any problems. Most of it done while attending live class. I don't really have anything to add here.
 
-### Something else
+## Homework Challenges 
+
+### Frontend not working
 
 While doing homework I have noticed that my frontend-react wouldn't start after docker compose up. I went to Docker containers, right clicked on frontend, clicked on View logs. It was showing this error:
 
@@ -19,6 +21,3 @@ That gave me an idea that it must be something to do with starting GitPod. But I
 ![Mistake](https://user-images.githubusercontent.com/124433076/222894052-1c6f7fbd-aced-4c37-85dd-dd1c1dab94a7.png)
 
 | was missing.
-
-
-## Homework Challenges 
