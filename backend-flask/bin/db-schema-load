@@ -1,0 +1,6 @@
+#! /usr/bin/bash
+
+echo $schema_path
+
+NO_DB_CONNECTION_URL=$(sed 's/\/cruddur//g' <<<"$CONNECTION_URL")
+psql $NO_DB_CONNECTION_URL cruddur < $schema_path
